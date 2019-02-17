@@ -47,16 +47,16 @@
           </tr>
  <tr>
     <td>model1</td>
-    <td>model2</td> 
-    <td>model3</td>
+    <td></td> 
+    <td></td>
   </tr>
   <tr>
-   <td></td>
+   <td>model2</td>
     <td></td> 
     <td></td>
   </tr>
           <tr>
-    <td></td>
+    <td>model3</td>
     <td></td> 
     <td></td>
   </tr>
