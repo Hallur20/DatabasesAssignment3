@@ -35,6 +35,50 @@
         
 ```
 
+The results were these:
+
+totalAmountOfUsers: 659774
+
+most active twitter users:
+
+Username: lost_dog Tweets: 549
+Username: webwoke Tweets: 345
+Username: tweetpet Tweets: 310
+Username: SallytheShizzle Tweets: 281
+Username: VioletsCRUK Tweets: 279
+Username: mcraddictal Tweets: 276
+Username: tsarnick Tweets: 248
+Username: what_bugs_u Tweets: 246
+Username: Karen230683 Tweets: 238
+Username: DarkPiano Tweets: 236
+
+most grumpy and happy users:
+
+Negative list:
+Username: lost_dog Tweets: 549
+Username: tweetpet Tweets: 310
+Username: webwoke Tweets: 264
+Username: mcraddictal Tweets: 210
+Username: wowlew Tweets: 210
+Positive list:
+Username: what_bugs_u Tweets: 246
+Username: DarkPiano Tweets: 231
+Username: VioletsCRUK Tweets: 218
+Username: tsarnick Tweets: 212
+Username: keza34 Tweets: 211
+
+users who link the most:
+Username: lost_dog Links: 549
+Username: tweetpet Links: 310
+Username: VioletsCRUK Links: 251
+Username: what_bugs_u Links: 246
+Username: tsarnick Links: 245
+Username: SallytheShizzle Links: 229
+Username: mcraddictal Links: 217
+Username: Karen230683 Links: 216
+Username: keza34 Links: 211
+Username: DarkPiano Links: 202
+
 <table>
   <tr>
     <th>Model</th>
