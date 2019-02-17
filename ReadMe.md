@@ -37,8 +37,7 @@
 
 <table>
   <tr>
-          <th></th>
-          <th>model</th>
+    <th></th>
     <th>Atomicity</th>
     <th>Sharding</th> 
     <th>Indexes</th>
