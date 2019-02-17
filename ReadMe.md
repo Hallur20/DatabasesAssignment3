@@ -121,4 +121,4 @@ Username: DarkPiano Links: 202</p>
   </tr>
 </table>
 <h2>brief arguments</h2>
-<p>we agreed that atomicity is important in all the 3 models, because of the fact that the depended steps have to happen at the same time, or else it will fail. Sharding</p>
+<p>we agreed that atomicity is important in all the 3 models, because of the fact that the depended steps have to happen at the same time, or else it will fail. Sharding made sense in ancestors/materialized because they are able to being split into smaller databases, while nested sets is more vulnarable because it wants to be static. Indexes works well with ancestors/materialized because of the index being able to act as a foreign key in other collections</p>
