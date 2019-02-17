@@ -37,18 +37,44 @@
 
 <table>
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
+    <th>Atomicity</th>
+    <th>Sharding</th> 
+    <th>Indexes</th>
+          <th>Large Number of Collections</th>
+          <th>Collection Contains Large Number of Small Documents</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td> 
-    <td>50</td>
+    <td></td>
+    <td></td> 
+    <td></td>
+          <td></td>
+          <td></td>
   </tr>
   <tr>
-    <td>Eve</td>
-    <td>Jackson</td> 
-    <td>94</td>
+    <td></td>
+    <td></td> 
+    <td></td>
+          <td></td>
+          <td></td>
+  </tr>
+          <tr>
+    <td></td>
+    <td></td> 
+    <td></td>
+          <td></td>
+          <td></td>
+  </tr>
+          <tr>
+    <td></td>
+    <td></td> 
+    <td></td>
+          <td></td>
+          <td></td>
+  </tr>  <tr>
+    <td></td>
+    <td></td> 
+    <td></td>
+          <td></td>
+          <td></td>
   </tr>
 </table>
