@@ -121,7 +121,7 @@ Username: DarkPiano Links: 202</p>
   </tr>
 </table>
 <h2>Factors</h2>
- <h3>Atomicty/<h3>
+ <h3>Atomicty</h3>
 <p>Atomicity is part of the ACID model (Atomicity, Consistency, Isolation, Durability), It is an atomic transaction of database operations, which mean that either everything should happen a time, or nothing happens. Atomic implies indivisibility and irreducibility.
 Transactions are often composed of multiple statements. Atomicity guarantees that each transaction is treated as a single "unit", which either succeeds completely, or fails completely, if one of the statements fails the whole transaction fail as well.
 A good example, a bank's software may implement a transfer from account A to account B as a withdrawal from A followed by a deposit to B. If the first action happens, then the second had better happen as well.
