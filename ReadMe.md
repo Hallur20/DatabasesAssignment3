@@ -120,13 +120,13 @@ Username: DarkPiano Links: 202</p>
   </tr>
   </tr>
 </table>
-<h2>Factors<h2>
- <h3>Atomicty<h3>
+<h2>Factors</h2>
+ <h3>Atomicty/<h3>
 <p>Atomicity is part of the ACID model (Atomicity, Consistency, Isolation, Durability), It is an atomic transaction of database operations, which mean that either everything should happen a time, or nothing happens. Atomic implies indivisibility and irreducibility.
 Transactions are often composed of multiple statements. Atomicity guarantees that each transaction is treated as a single "unit", which either succeeds completely, or fails completely, if one of the statements fails the whole transaction fail as well.
 A good example, a bank's software may implement a transfer from account A to account B as a withdrawal from A followed by a deposit to B. If the first action happens, then the second had better happen as well.
 Another example, in an online airline-booking system, a booking may consist of 2 separate actions that together form a transaction -- paying for the seat and reserving the seat for the customer who’s just paid. Business logic dictates that these two, though distinct and separate actions, must occur together. If one happens without the other, problems can occur. For example, the system may reserve the same seat for two separate customers.</p>
-<h3>Sharding<h3>
+<h3>Sharding</h3>
 <p>Sharding is used to separate very big database into smaller, faster, more easily managed horizontal partitioning databases. Shard means a small part of a whole.
 A good example is splitting a customer database geographically. Customers located on the East Coast can be placed on one server, while customers on the West Coast can be placed on a second server. Assuming there are no customers with multiple locations, the split is easy to maintain and build rules around.
 In some cases, sharding a database that holds less structured data can be a complex process, and the resulting shards (databases) may be difficult to maintain.</p>
