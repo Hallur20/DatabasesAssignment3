@@ -40,8 +40,9 @@
 
 The results were these:
 
-totalAmountOfUsers: 659774
-
+<li>
+<pre><code>totalAmountOfUsers: 659774</code></pre>
+</li>
 <p>most active twitter users:</p>
 <p>
 Username: lost_dog Tweets: 549<br>
@@ -141,9 +142,3 @@ In some cases, sharding a database that holds less structured data can be a comp
 <p>we were not sure if the project was supposed to be included but if u need it to work type npm install in gitbash and remove comments etc...</p>
 
 <p>link for github: https://github.com/Hallur20/DatabasesAssignment3/edit/master/ReadMe.md</p>
-
-<li>
-<p>How many Twitter users are in the database?</p>
-<pre><code>1598315
-</code></pre>
-</li>
