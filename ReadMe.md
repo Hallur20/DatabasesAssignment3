@@ -37,6 +37,7 @@
 
 <table>
   <tr>
+          <th></th>
           <th>model</th>
     <th>Atomicity</th>
     <th>Sharding</th> 
@@ -50,7 +51,7 @@
     <td></td>
   </tr>
   <tr>
-   <td>asd</td>
+   <td></td>
     <td></td> 
     <td></td>
   </tr>
