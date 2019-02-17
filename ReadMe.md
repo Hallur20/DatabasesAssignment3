@@ -45,7 +45,7 @@
     <th>Collection Contains Large Number of Small Documents</th>
           </tr>
  <tr>
-    <td>model1</td>
+    <td>Arrays of Ancestors</td>
     <td></td> 
     <td></td>
          <td></td>
@@ -54,7 +54,7 @@
 
   </tr>
   <tr>
-   <td>model2</td>
+   <td>Materialized paths</td>
     <td></td> 
     <td></td>
           <td></td>
@@ -63,7 +63,7 @@
       
   </tr>
           <tr>
-    <td>model3</td>
+    <td>Nested Sets</td>
     <td></td> 
     <td></td>
                   <td></td>
