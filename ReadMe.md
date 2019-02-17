@@ -44,7 +44,7 @@
           <th>Large Number of Collections</th>
           <th>Collection Contains Large Number of Small Documents</th>
   </tr>
-  asd<tr>
+  <tr>
     <td></td>
     <td></td> 
     <td></td>
