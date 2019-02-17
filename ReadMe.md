@@ -38,7 +38,7 @@
         
 ```
 
-The results were these:
+<h3>The results were these:</h3>
 <p>totalAmountOfUsers</p>
 <pre><code> 659774</code></pre>
 <p>most active twitter users:</p>
@@ -70,7 +70,7 @@ Username: tsarnick Tweets: 212<br>
 Username: keza34 Tweets: 211
 </code></pre>
 <p>users who link the most:</p>
- <code><pre>
+ <pre><code>
 Username: lost_dog Links: 549<br>
 Username: tweetpet Links: 310<br>
 Username: VioletsCRUK Links: 251<br>
