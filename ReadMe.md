@@ -1,8 +1,8 @@
 Queries:
 
-'''java
+```java
 
 int a = 5;
 
 
-''
+```
