@@ -136,7 +136,7 @@ In some cases, sharding a database that holds less structured data can be a comp
 
 
 
-<h2>brief arguments</h2>
+<h2>Brief arguments</h2>
 <p>We agreed that atomicity is important in all the 3 models, because of the fact that the depended steps have to happen at the same time, or else it will fail. Sharding made sense in ancestors/materialized because they are able to being split into smaller databases, while nested sets is more vulnarable because it wants to be static. Indexes works well with ancestors/materialized because of the index being able to act as a foreign key in other collections. We believe that a large number of collections would work well with nested sets because of the fact that is not much desire for storing tree nodes in the model. A collection with many documents works better for materialized/ancestors because they are more open for modification </p>
 
 <h2>Note</h2>
