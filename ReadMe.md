@@ -40,9 +40,7 @@
 
 The results were these:
 
-<li>
 <pre><code>totalAmountOfUsers: 659774</code></pre>
-</li>
 <p>most active twitter users:</p>
 <p>
 Username: lost_dog Tweets: 549<br>
