@@ -130,6 +130,12 @@ Another example, in an online airline-booking system, a booking may consist of 2
 <p>Sharding is used to separate very big database into smaller, faster, more easily managed horizontal partitioning databases. Shard means a small part of a whole.
 A good example is splitting a customer database geographically. Customers located on the East Coast can be placed on one server, while customers on the West Coast can be placed on a second server. Assuming there are no customers with multiple locations, the split is easy to maintain and build rules around.
 In some cases, sharding a database that holds less structured data can be a complex process, and the resulting shards (databases) may be difficult to maintain.</p>
+<h3>Index</h3>
+<p>An index is an optional structure, associated with a table or table cluster, that can sometimes speed data access. By creating an index on one or more columns of a table, you gain the ability in some cases to retrieve a small set of randomly distributed rows from the table. Indexes are one of many means of reducing disk I/O.
+
+If a heap-organized table has no indexes, then the database must perform a full table scan to find a value. For example, without an index, a query of location 2700 in the hr.departments table requires the database to search every row in every table block for this value. This approach does not scale well as data volumes increase.
+
+For an analogy, suppose an HR manager has a shelf of cardboard boxes. Folders containing employee information are inserted randomly in the boxes. The folder for employee Whalen (ID 200) is 10 folders up from the bottom of box 1, whereas the folder for King (ID 100) is at the bottom of box 3. To locate a folder, the manager looks at every folder in box 1 from bottom to top, and then moves from box to box until the folder is found. To speed access, the manager could create an index that sequentially lists every employee ID with its folder location:</p>
 
 
 
