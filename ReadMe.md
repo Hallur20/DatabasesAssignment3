@@ -1,6 +1,9 @@
 <h1>Database Assignment 3</h1>
 <h2>made by Hallur við Neyst and Murched Kayed</h2>
-<p>We have completed 4 out of 5 queries, which can be seen down below.</p>
+<h2>1. Twitter data</h2>
+<p>We have completed 4 out of 5 queries, which can be seen down below. The problem with the 5th query was that we did not manage to
+ obtain the users who were mentioned in the text. 
+</p>
 
 ```javascript
 
@@ -78,7 +81,7 @@ Username: mcraddictal Links: 217<br>
 Username: Karen230683 Links: 216<br>
 Username: keza34 Links: 211<br>
 Username: DarkPiano Links: 202</p>
-
+<h2>2. Modelling</h2>
 <table>
   <tr>
     <th>Model</th>
@@ -117,3 +120,5 @@ Username: DarkPiano Links: 202</p>
   </tr>
   </tr>
 </table>
+<h2>brief arguments</h2>
+<p>we agreed that atomicity is important in all the 3 models, because of the fact that the depended steps have to happen at the same time, or else it will fail. Sharding</p>
