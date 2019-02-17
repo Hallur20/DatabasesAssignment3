@@ -36,14 +36,13 @@
 ```
 
 <table>
-  <tr>
-          
+  <tr>          
     <th>Atomicity</th>
     <th>Sharding</th> 
     <th>Indexes</th>
-          <th>Large Number of Collections</th>
-          <th>Collection Contains Large Number of Small Documents</th>
-  </tr>
+    <th>Large Number of Collections</th>
+    <th>Collection Contains Large Number of Small Documents</th>
+          </tr>
   <tr>
     <td></td>
     <td></td> 
