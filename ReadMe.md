@@ -141,7 +141,7 @@ In some cases, sharding a database that holds less structured data can be a comp
 
 <h2>Note</h2>
 <p>Link for github: https://github.com/Hallur20/DatabasesAssignment3/edit/master/ReadMe.md</p>
-<p>we were not sure if the project was supposed to be included but  you can clone the repo if you want to see the project working, after clonong the project go to the "NodeJsProjectTwitter" folder then type npm install in gitbash and remove comments. (you should have a working mongo database with the tweets data in), if not you can follow the steps in "Setup mongodb" to make a mongo db with the need data in vagrant</p>
+<p>we were not sure if the project was supposed to be included but  you can clone the repo if you want to see the project working, after clonong the project go to the "NodeJsProjectTwitter" folder then type npm install in gitbash and remove comments. (you should have a working mongo database with the tweets data in), if not you can follow the steps in "Setup mongodb" to create a mongo db with the need data, in vagrant</p>
 
 <h3>Setup mongodb</h3>
 <ol>
