@@ -46,28 +46,28 @@
           </tr>
  <tr>
     <td>Arrays of Ancestors</td>
-    <td></td> 
-    <td></td>
+    <td>x</td> 
+    <td>x</td>
+         <td>x</td>
          <td></td>
-         <td></td>
-         <td></td>
+         <td>x</td>
 
   </tr>
   <tr>
    <td>Materialized paths</td>
-    <td></td> 
-    <td></td>
+    <td>x</td> 
+    <td>x</td>
+          <td>x</td>
           <td></td>
-          <td></td>
-          <td></td>
+          <td>x</td>
       
   </tr>
           <tr>
     <td>Nested Sets</td>
-    <td></td> 
+    <td>x</td> 
     <td></td>
                   <td></td>
-                  <td></td>
+                  <td>x</td>
                   <td></td>
 
   </tr>
