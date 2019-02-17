@@ -41,8 +41,9 @@
 The results were these:
 
 <pre><code>totalAmountOfUsers: 659774</code></pre>
+<li>
 <p>most active twitter users:</p>
-<p>
+ <pre><code>
 Username: lost_dog Tweets: 549<br>
 Username: webwoke Tweets: 345<br>
 Username: tweetpet Tweets: 310<br>
@@ -52,8 +53,10 @@ Username: mcraddictal Tweets: 276<br>
 Username: tsarnick Tweets: 248<br>
 Username: what_bugs_u Tweets: 246<br>
 Username: Karen230683 Tweets: 238<br>
-Username: DarkPiano Tweets: 236</p>
-
+Username: DarkPiano Tweets: 236
+ </code></pre>
+ </li>
+<li>
 <p>most grumpy and happy users:</p>
 
 <p>Negative list:
@@ -68,6 +71,7 @@ Username: DarkPiano Tweets: 231<br>
 Username: VioletsCRUK Tweets: 218<br>
 Username: tsarnick Tweets: 212<br>
 Username: keza34 Tweets: 211</p>
+</li>
 
 <p>users who link the most:</p><p>
 Username: lost_dog Links: 549<br>
