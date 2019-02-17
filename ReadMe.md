@@ -70,7 +70,7 @@ Username: VioletsCRUK Tweets: 218<br>
 Username: tsarnick Tweets: 212<br>
 Username: keza34 Tweets: 211</p>
 </code></pre>
-<p>users who link the most:</p><p>
+<p>users who link the most:</p>
  <code><pre>
 Username: lost_dog Links: 549<br>
 Username: tweetpet Links: 310<br>
@@ -81,7 +81,7 @@ Username: SallytheShizzle Links: 229<br>
 Username: mcraddictal Links: 217<br>
 Username: Karen230683 Links: 216<br>
 Username: keza34 Links: 211<br>
-Username: DarkPiano Links: 202</p>
+Username: DarkPiano Links: 202
   </code></pre>
 <h2>2. Modelling</h2>
 <table>
