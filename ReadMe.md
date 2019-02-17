@@ -1,5 +1,5 @@
 <h1>Database Assignment 3</h1>
-<h2>made by Hallur við Neyst and Murched Kayed</h2>
+<h2>Made by Hallur við Neyst and Murched Kayed</h2>
 <h2>1. Twitter data</h2>
 <p>We have completed 4 out of 5 queries, which can be seen down below. The problem with the 5th query was that we did not manage to
  obtain the users who were mentioned in the text. 
@@ -141,3 +141,9 @@ In some cases, sharding a database that holds less structured data can be a comp
 <p>we were not sure if the project was supposed to be included but if u need it to work type npm install in gitbash and remove comments etc...</p>
 
 <p>link for github: https://github.com/Hallur20/DatabasesAssignment3/edit/master/ReadMe.md</p>
+
+<li>
+<p>How many Twitter users are in the database?</p>
+<pre><code>1598315
+</code></pre>
+</li>
