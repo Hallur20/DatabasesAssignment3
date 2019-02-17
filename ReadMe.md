@@ -39,7 +39,7 @@
 ```
 
 <h3>The results were these:</h3>
-<p>totalAmountOfUsers</p>
+<p>totalAmountOfUsers:</p>
 <pre><code> 659774</code></pre>
 <p>most active twitter users:</p>
  <pre><code>
