@@ -46,9 +46,9 @@
     <th>Collection Contains Large Number of Small Documents</th>
           </tr>
  <tr>
-    <td></td>
-    <td></td> 
-    <td></td>
+    <td>model1</td>
+    <td>model2</td> 
+    <td>model3</td>
   </tr>
   <tr>
    <td></td>
