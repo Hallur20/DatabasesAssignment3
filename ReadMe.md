@@ -140,10 +140,10 @@ In some cases, sharding a database that holds less structured data can be a comp
 <p>we agreed that atomicity is important in all the 3 models, because of the fact that the depended steps have to happen at the same time, or else it will fail. Sharding made sense in ancestors/materialized because they are able to being split into smaller databases, while nested sets is more vulnarable because it wants to be static. Indexes works well with ancestors/materialized because of the index being able to act as a foreign key in other collections. We believe that a large number of collections would work well with nested sets because of the fact that is not much desire for storing tree nodes in the model. A collection with many documents works better for materialized/ancestors because they are more open for modification </p>
 
 <h2>Note</h2>
-<p>link for github: https://github.com/Hallur20/DatabasesAssignment3/edit/master/ReadMe.md</p>
+<p>Link for github: https://github.com/Hallur20/DatabasesAssignment3/edit/master/ReadMe.md</p>
 <p>we were not sure if the project was supposed to be included but  you can clone the repo if you want to see the project working, after clonong the project go to the "NodeJsProjectTwitter" folder then type npm install in gitbash and remove comments. (you should have a working mongo database with the tweets data in), if not you can follow the steps in "Setup mongodb" to make a mongo db with the need data in vagrant</p>
 
-<h3Setup mongodb</h3>
+<h3>Setup mongodb</h3>
 <ol>
 <li>go to your vagrant or linux terminal.</li>
 <li>type 'sudo apt update</li>
