@@ -1,6 +1,7 @@
 <h1>Database Assignment 3</h1>
 <h2>made by Hallur við Neyst and Murched Kayed</h2>
 <p>We have completed 4 out of 5 queries, which can be seen down below.</p>
+
 ```javascript
 
 //how many twitter users:
