@@ -49,16 +49,28 @@
     <td>model1</td>
     <td></td> 
     <td></td>
+         <td></td>
+         <td></td>
+         <td></td>
+         <td></td>
   </tr>
   <tr>
    <td>model2</td>
     <td></td> 
     <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
+          <td></td>
   </tr>
           <tr>
     <td>model3</td>
     <td></td> 
     <td></td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
+                  <td></td>
   </tr>
   </tr>
 </table>
